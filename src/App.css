@@ -1,23 +1,21 @@
-#homepage1{
+#homepage1 {
   background-image: url(https://www.onelogin.com/blog/wp-content/uploads/2023/05/advanced-authentication-blog-image-1024x465.jpg.optimal.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 88vh;
 }
 
-#homepage2{
+#homepage2 {
   background-image: url(https://web-assets.esetstatic.com/wls/2022/09/biometric-authentication-how-it-works-pros-cons.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 88vh;
 }
 
-#authenticationpage{
-  background-image: url(https://web-assets.esetstatic.com/wls/2022/09/biometric-authentication-how-it-works-pros-cons.jpg);
+#authenticationpage {
+  background-image: url(https://optimalidm.com/wp-content/uploads/2020/06/Types-of-Authentication-2048x908.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
-  
+
 }
-
-
